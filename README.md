@@ -1,6 +1,6 @@
-👋 Hi, I’m Nicolás Comay.
+👋 Hi, I’m Nico.
 
-I'm a PhD student at the PhD in Neurosciences program of the [National University of Córdoba (Argentina)](https://www.unc.edu.ar/english/).
+I'm a psychologist with a PhD in neuroscience from the [National University of Córdoba (Argentina)](https://www.unc.edu.ar/english/).
 
 At the [Cognitive Science Group](https://cognitivesciences.github.io/), I'm studying metacognition: the ability to reflect upon our own cognitive processes. In order to understand this phenomenon, we use behavioral experiments, computational modeling and neuroimaging (EEG & fMRI).
 
